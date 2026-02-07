@@ -4,22 +4,22 @@
     "autoCreateDB": true,
     "iconUnsend": {
         "status": true,
-        "icon": ""
+        "icon": "🤖"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": "",
+    "BOTNAME": "ℤ𝕚𝕧𝕖𝕟",
+    "AMDIN_NAME": "𝔻𝕦̛𝕠̛𝕟𝕘",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/zivvenn/",
+    "PREFIX": ".",
     "ADMINBOT": [
-        ""
+        "61555900025534"
     ],
     "NDH": [
-        ""
+        "61555900025534"
     ],
     "DATABASE": {
         "sqlite": {
